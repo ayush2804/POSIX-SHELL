@@ -1,0 +1,1 @@
+Created the shell display, cd with all given flags, echo, pwd.
